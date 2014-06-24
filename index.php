@@ -5,6 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
   	<title>This is my main index page</title>
     <meta name="viewport" content="width=device-width">
+    <link rel="stylesheet" href="style1.css">
   </head>
   
   <body>
